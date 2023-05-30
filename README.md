@@ -63,3 +63,27 @@ A comprehensive list of  SDR tools for linux for a plethora of applications
 9. [NST](https://www.networksecuritytoolkit.org/) - A Linux distribution for penetration testing and security auditing that includes a variety of SDR tools. 
 10. [CAINE](https://www.caine-live.net/) - A Linux distribution for digital forensics that includes a variety of SDR tools. 
 11. [Kali NetHunter](https://www.kali.org/kali-linux-nethunter/) - A Linux distribution for penetration testing and security auditing that includes a variety of SDR tools. 
+
+## SDR Hardware
+1. [RTL-SDR](https://www.rtl-sdr.com/) - A low-cost SDR receiver that uses a DVB-T TV tuner dongle based on the RTL2832U chipset.
+2. [HackRF One](https://greatscottgadgets.com/hackrf/) - A low-cost SDR transceiver that can transmit and receive half-duplex signals from 1MHz to 6GHz.
+3. [LimeSDR](https://limemicro.com/products/boards/limesdr/) - A low-cost SDR transceiver that can transmit and receive full-duplex signals from 100kHz to 3.8GHz.
+4. [LimeSDR Mini](https://limemicro.com/products/boards/limesdr-mini/) - A low-cost SDR transceiver that can transmit and receive full-duplex signals from 10MHz to 3.5GHz.
+5. [Airspy](https://airspy.com/) - A low-cost SDR receiver that can receive signals from 24MHz to 1.8GHz.
+6. [Airspy Mini](https://airspy.com/airspy-mini/) - A low-cost SDR receiver that can receive signals from 24MHz to 1.8GHz.
+7. [Airspy HF+](https://airspy.com/airspy-hf-plus/) - A low-cost SDR receiver that can receive signals from 9kHz to 31MHz.
+8. [Airspy HF+ Discovery](https://airspy.com/airspy-hf-discovery/) - A low-cost SDR receiver that can receive signals from 9kHz to 31MHz.
+9. [Airspy R2](https://airspy.com/airspy-r2/) - A low-cost SDR receiver that can receive signals from 24MHz to 1.8GHz.
+10. [RSP1](https://www.sdrplay.com/rsp1/) - A low-cost SDR receiver that can receive signals from 10kHz to 2GHz.
+11. [RSP1A](https://www.sdrplay.com/rsp1a/) - A low-cost SDR receiver that can receive signals from 1kHz to 2GHz.
+12. [RSP2](https://www.sdrplay.com/rsp2/) - A low-cost SDR receiver that can receive signals from 1kHz to 2GHz.
+13. [RSP2pro](https://www.sdrplay.com/rsp2pro/) - A low-cost SDR receiver that can receive signals from 1kHz to 2GHz.
+14. [RSPduo](https://www.sdrplay.com/rspduo/) - A low-cost SDR receiver that can receive signals from 1kHz to 2GHz.
+15. [Hermes-Lite 2](http://www.hermeslite.com/) - A low-cost SDR transceiver that can transmit and receive full-duplex signals from 0.1MHz to 30MHz.
+16. [BladeRF 2.0 Micro](https://www.nuand.com/product/bladerf-2-micro/) - A low-cost SDR transceiver that can transmit and receive full-duplex signals from 47MHz to 6GHz.
+17. [USRP](https://www.ettus.com/all-products/) - A high-performance SDR transceiver that can transmit and receive full-duplex signals from 10MHz to 6GHz.
+18. [USRP B200mini](https://www.ettus.com/all-products/usrp-b200mini-i/) - A low-cost SDR transceiver that can transmit and receive full-duplex signals from 70MHz to 6GHz.
+19. [UberTooth One](https://greatscottgadgets.com/ubertoothone/) - A low-cost SDR transceiver that can transmit and receive full-duplex signals from 2.4GHz to 2.5GHz.
+20. [YARD Stick One](https://greatscottgadgets.com/yardstickone/) - A low-cost SDR transceiver that can transmit and receive full-duplex signals from 300MHz to 348MHz and from 391MHz to 464MHz.
+21. [Seed Studio Crazyradio PA](https://www.seeedstudio.com/Crazyradio-PA-Long-Range-2-4Ghz-USB-Radio-Dongle-with-Antenna-p-2689.html) - A low-cost SDR transceiver that can transmit and receive full-duplex signals from 2.4GHz to 2.5GHz.
+22. [KiwiSDR](https://www.kiwisdr.com/) - A low-cost SDR receiver that can receive signals from 10kHz to 30MHz.
