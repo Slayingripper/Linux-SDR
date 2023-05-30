@@ -107,11 +107,10 @@ A comprehensive list of  SDR tools for linux for a plethora of applications
 
 ### Antenna Design Tools
 1. [4nec2](http://www.qsl.net/4nec2/) - A free NEC based antenna modeler and optimizer.
-2. [NEC2++](
-3. [MMANA-GAL](http://hamsoft.ca/pages/mmana-gal.php) - A free MMANA-GAL based antenna modeler and optimizer.
-4. [EZNEC](https://www.eznec.com/) - A commercial NEC based antenna modeler and optimizer.
-5. [MMANA-GAL](http://hamsoft.ca/pages/mmana-gal.php) - A free MMANA-GAL based antenna modeler and optimizer.
-6. [NanoVNA](https://nanorfe.com/) - A low-cost vector network analyzer that can be used to measure antenna performance.
+2. [MMANA-GAL](http://hamsoft.ca/pages/mmana-gal.php) - A free MMANA-GAL based antenna modeler and optimizer.
+3. [EZNEC](https://www.eznec.com/) - A commercial NEC based antenna modeler and optimizer.
+4. [MMANA-GAL](http://hamsoft.ca/pages/mmana-gal.php) - A free MMANA-GAL based antenna modeler and optimizer.
+5. [NanoVNA](https://nanorfe.com/) - A low-cost vector network analyzer that can be used to measure antenna performance.
 
 ### Antenna Switches
 1. [DX Engineering](https://www.dxengineering.com/) - A variety of antenna switches for HF, VHF, and UHF.
