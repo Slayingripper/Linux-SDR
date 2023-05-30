@@ -1,4 +1,3 @@
-theme: hacker
 # Linux-SDR
 
 ## Interfacing SDR with Linux
