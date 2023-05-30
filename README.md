@@ -5,7 +5,7 @@ A comprehensive list of  SDR tools for linux for a plethora of applications
 1. [GNU Radio ](https://www.gnuradio.org/) - A free and open-source software development toolkit that provides signal processing blocks to implement SDR systems. 
 
 
-2. SDRangel - A versatile SDR software with a modular design that supports a variety of SDR devices and enables advanced signal processing. [SDRangel ](https://github.com/f4exb/sdrangel)
+2. [SDRangel](https://github.com/f4exb/sdrangel) - A versatile SDR software with a modular design that supports a variety of SDR devices and enables advanced signal processing. 
 
 3. [SDRplay SDRUno](https://www.sdrplay.com/sdruno/) - A powerful SDR application specifically designed for SDRplay's range of SDR receivers, offering advanced features and an intuitive user interface. 
 
