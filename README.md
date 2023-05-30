@@ -50,6 +50,8 @@ A comprehensive list of  SDR tools for linux for a plethora of applications
 14. [dsd](https://github.com/szechyjs/dsd) - A software that can be used to decode digital voice protocols such as P25, DMR, and more. 
 15. [QRadioLink](https://github.com/qradiolink/qradiolink)
  is a VOIP (radio over IP) GNU/Linux SDR (software defined radio) transceiver application using Internet protocols for communication, built on top of GNU radio, which allows experimenting with some software defined radio hardware devices - 
+16. [WSJT-X](https://physics.princeton.edu/pulsar/k1jt/wsjtx.html) - A software that can be used to decode weak signals in amateur radio.
+17. [SDRTrunk](https://github.com/DSheirer/sdrtrunk) - A software that can be used to decode P25, DMR, and other digital voice protocols.
 ## Linux Distros for SDR prebuilts
 
 1. [Ham Radio Linux](https://sourceforge.net/projects/hamradiolinux/) - A Linux distribution for amateur radio operators based on Ubuntu. 
