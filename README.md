@@ -52,14 +52,14 @@ A comprehensive list of  SDR tools for linux for a plethora of applications
 
 ## Linux Distros for SDR prebuilts
 
-1. Ham Radio Linux - A Linux distribution for amateur radio operators based on Ubuntu. [Ham Radio Linux](https://sourceforge.net/projects/hamradiolinux/)
-2. Raspbian Ham Radio - A Linux distribution for amateur radio operators based on Raspberry Pi OS. [Raspbian Ham Radio](https://sourceforge.net/projects/raspberry-pi-amateur-radio-g4klx/)
-3. Kali Linux - A Linux distribution for penetration testing and security auditing that includes a variety of SDR tools. [Kali Linux](https://www.kali.org/)
-4. Pentoo - A Linux distribution for penetration testing and security auditing that includes a variety of SDR tools. [Pentoo](https://www.pentoo.ch/)
-5. Parrot OS - A Linux distribution for penetration testing and security auditing that includes a variety of SDR tools. [Parrot OS](https://parrotlinux.org/)
-6.  BlackArch - A Linux distribution for penetration testing and security auditing that includes a variety of SDR tools. [BlackArch](https://blackarch.org/)
-7.  BackBox - A Linux distribution for penetration testing and security auditing that includes a variety of SDR tools. [BackBox](https://backbox.org/)
-8.  Dracos Linux - A Linux distribution for penetration testing and security auditing that includes a variety of SDR tools. [Dracos Linux](https://dracos-linux.org/)
-9.  NST - A Linux distribution for penetration testing and security auditing that includes a variety of SDR tools. [NST](https://www.networksecuritytoolkit.org/)
-10. CAINE - A Linux distribution for digital forensics that includes a variety of SDR tools. [CAINE](https://www.caine-live.net/)
-11. Kali NetHunter - A Linux distribution for penetration testing and security auditing that includes a variety of SDR tools. [Kali NetHunter](https://www.kali.org/kali-linux-nethunter/)
+1. [Ham Radio Linux](https://sourceforge.net/projects/hamradiolinux/) - A Linux distribution for amateur radio operators based on Ubuntu. 
+2. [Raspbian Ham Radio](https://sourceforge.net/projects/raspberry-pi-amateur-radio-g4klx/)- A Linux distribution for amateur radio operators based on Raspberry Pi OS. 
+3. [Kali Linux](https://www.kali.org/) - A Linux distribution for penetration testing and security auditing that includes a variety of SDR tools. 
+4. [Pentoo](https://www.pentoo.ch/) - A Linux distribution for penetration testing and security auditing that includes a variety of SDR tools. 
+5. [Parrot OS](https://parrotlinux.org/) - A Linux distribution for penetration testing and security auditing that includes a variety of SDR tools. 
+6. [BlackArch](https://blackarch.org/) - A Linux distribution for penetration testing and security auditing that includes a variety of SDR tools. 
+7. [BackBox](https://backbox.org/) - A Linux distribution for penetration testing and security auditing that includes a variety of SDR tools. 
+8. [Dracos Linux](https://dracos-linux.org/) - A Linux distribution for penetration testing and security auditing that includes a variety of SDR tools. 
+9. [NST](https://www.networksecuritytoolkit.org/) - A Linux distribution for penetration testing and security auditing that includes a variety of SDR tools. 
+10. [CAINE](https://www.caine-live.net/) - A Linux distribution for digital forensics that includes a variety of SDR tools. 
+11. [Kali NetHunter](https://www.kali.org/kali-linux-nethunter/) - A Linux distribution for penetration testing and security auditing that includes a variety of SDR tools. 
