@@ -2,54 +2,54 @@
 
 ## Interfacing SDR with Linux
 A comprehensive list of  SDR tools for linux for a plethora of applications
-1. GNU Radio - A free and open-source software development toolkit that provides signal processing blocks to implement SDR systems. [GNU Radio ](https://www.gnuradio.org/)
+1. [GNU Radio ](https://www.gnuradio.org/) - A free and open-source software development toolkit that provides signal processing blocks to implement SDR systems. 
 
 
 2. SDRangel - A versatile SDR software with a modular design that supports a variety of SDR devices and enables advanced signal processing. [SDRangel ](https://github.com/f4exb/sdrangel)
 
-3. SDRplay SDRUno - A powerful SDR application specifically designed for SDRplay's range of SDR receivers, offering advanced features and an intuitive user interface. [SDRplay SDRUno](https://www.sdrplay.com/sdruno/)
+3. [SDRplay SDRUno](https://www.sdrplay.com/sdruno/) - A powerful SDR application specifically designed for SDRplay's range of SDR receivers, offering advanced features and an intuitive user interface. 
 
-4. CubicSDR - A multi-platform SDR application that supports various SDR devices and offers features like spectrum display, waterfall visualization, and more. [CubicSDR Website](https://cubicsdr.com/)
+4. [CubicSDR Website](https://cubicsdr.com/) - A multi-platform SDR application that supports various SDR devices and offers features like spectrum display, waterfall visualization, and more. 
 
-5. GQRX - An open-source SDR receiver powered by GNU Radio, providing a graphical interface and support for numerous SDR hardware options. [GQRX ](https://gqrx.dk/)
+5. [GQRX](https://gqrx.dk/) - An open-source SDR receiver powered by GNU Radio, providing a graphical interface and support for numerous SDR hardware options.
+6.  
+7. [SoapySDR](https://github.com/pothosware/SoapySDR) - A vendor-neutral SDR software abstraction layer that enables compatibility between SDR hardware and various SDR applications. 
 
-6. SoapySDR - A vendor-neutral SDR software abstraction layer that enables compatibility between SDR hardware and various SDR applications. [SoapySDR ](https://github.com/pothosware/SoapySDR)
+8. [LinHPSDR ](https://openhpsdr.org/) - An SDR application based on the HPSDR Hermes board, providing support for high-performance SDR receivers. 
+9. [OpenWebRX Website](https://www.openwebrx.de/) - A multi-user SDR receiver application that supports various SDR hardware and offers a simple web interface for remote access. 
 
-7. LinHPSDR - An SDR application based on the HPSDR Hermes board, providing support for high-performance SDR receivers. [LinHPSDR ](https://openhpsdr.org/)
-8. OpenWebRX - A multi-user SDR receiver application that supports various SDR hardware and offers a simple web interface for remote access. [OpenWebRX Website](https://www.openwebrx.de/)
-
-9.  Thetis - A multi-platform SDR application that supports the HPSDR Mercury, Penelope, and Excalibur SDR hardware, offering advanced features and a customizable user interface. [Thetis](https://github.com/TAPR/OpenHPSDR-Thetis)
+10. [Thetis](https://github.com/TAPR/OpenHPSDR-Thetis) - A multi-platform SDR application that supports the HPSDR Mercury, Penelope, and Excalibur SDR hardware, offering advanced features and a customizable user interface. 
 
 ## Decoding tools for SDR
-1. gr-gsm - A GNU Radio based software that can be used to decode GSM/3G/4G LTE base stations. [gr-gsm](https://github.com/ptrkrysik/gr-gsm)
+1. [gr-gsm](https://github.com/ptrkrysik/gr-gsm) - A GNU Radio based software that can be used to decode GSM/3G/4G LTE base stations. 
 
-2. gr-lte - A GNU Radio based software that can be used to decode LTE base stations. [gr-lte](https://github.com/kit-cel/gr-lte)
+2. [gr-lte](https://github.com/kit-cel/gr-lte) - A GNU Radio based software that can be used to decode LTE base stations. 
 
-3. gr-iridium - A GNU Radio based software that can be used to decode Iridium satellite signals. [gr-iridium](https://github.com/daniestevez/gr-iridium)
+3. [gr-iridium](https://github.com/daniestevez/gr-iridium) - A GNU Radio based software that can be used to decode Iridium satellite signals. 
 
-4. gr-ax25 - A GNU Radio based software that can be used to decode AX.25 signals. [gr-ax25](https://github.com/argilo/gr-ax25)
+4. [gr-ax25](https://github.com/argilo/gr-ax25) - A GNU Radio based software that can be used to decode AX.25 signals. 
 
-5. gr-satellites - A GNU Radio based software that can be used to decode satellite signals. [gr-satellites](https://github.com/daniestevez/gr-satellites)
+5. [gr-satellites](https://github.com/daniestevez/gr-satellites) - A GNU Radio based software that can be used to decode satellite signals. 
 
-6. gr-ais - A GNU Radio based software that can be used to decode AIS signals. [gr-ais](https://github.com/bistromath/gr-ais)
+6. [gr-ais](https://github.com/bistromath/gr-ais) - A GNU Radio based software that can be used to decode AIS signals. 
 
-7. gr-rds - A GNU Radio based software that can be used to decode RDS signals. [gr-rds](https://github.com/argilo/gr-rds)
+7. [gr-rds](https://github.com/argilo/gr-rds) - A GNU Radio based software that can be used to decode RDS signals. 
 
-8. gr-ieee802-15-4 - A GNU Radio based software that can be used to decode IEEE 802.15.4 signals. [gr-ieee802-15-4](https://github.com/bastibl/gr-ieee802-15-4)
+8. [gr-ieee802-15-4](https://github.com/bastibl/gr-ieee802-15-4) - A GNU Radio based software that can be used to decode IEEE 802.15.4 signals. 
 
-9. rtl_433 - A software that can be used to decode a variety of sensors and devices that transmit using 433MHz. [rtl_433](https://github.com/merbanan/rtl_433)
+9. [rtl_433](https://github.com/merbanan/rtl_433) - A software that can be used to decode a variety of sensors and devices that transmit using 433MHz. 
 
-10. rtl_ais - A software that can be used to decode AIS signals. [rtl_ais](https://github.com/dgiardini/rtl-ais)
+10. [rtl_ais](https://github.com/dgiardini/rtl-ais) - A software that can be used to decode AIS signals. 
 
-11. rtlamr - A software that can be used to decode smart meters that transmit using 900MHz. [rtlamr](https://github.com/bemasher/rtlamr)
+11. [rtlamr](https://github.com/bemasher/rtlamr) - A software that can be used to decode smart meters that transmit using 900MHz. 
 
-12. dump1090 - A software that can be used to decode ADS-B signals. [dump1090](https://github.com/antirez/dump1090)
+12. [dump1090](https://github.com/antirez/dump1090) - A software that can be used to decode ADS-B signals. 
 
-13. multimon-ng - A software that can be used to decode a variety of digital transmission modes. [multimon-ng](https://github.com/EliasOenal/multimon-ng)
+13. [multimon-ng](https://github.com/EliasOenal/multimon-ng) - A software that can be used to decode a variety of digital transmission modes. 
 
-14. dsd - A software that can be used to decode digital voice protocols such as P25, DMR, and more. [dsd](https://github.com/szechyjs/dsd)
-15. QRadioLink QRadioLink is a VOIP (radio over IP) GNU/Linux SDR (software defined radio) transceiver application using Internet protocols for communication, built on top of GNU radio, which allows experimenting with some software defined radio hardware devices - [QRadioLink](https://github.com/qradiolink/qradiolink)
-
+14. [dsd](https://github.com/szechyjs/dsd) - A software that can be used to decode digital voice protocols such as P25, DMR, and more. 
+15. [QRadioLink](https://github.com/qradiolink/qradiolink)
+ is a VOIP (radio over IP) GNU/Linux SDR (software defined radio) transceiver application using Internet protocols for communication, built on top of GNU radio, which allows experimenting with some software defined radio hardware devices - 
 ## Linux Distros for SDR prebuilts
 
 1. [Ham Radio Linux](https://sourceforge.net/projects/hamradiolinux/) - A Linux distribution for amateur radio operators based on Ubuntu. 
@@ -87,3 +87,34 @@ A comprehensive list of  SDR tools for linux for a plethora of applications
 20. [YARD Stick One](https://greatscottgadgets.com/yardstickone/) - A low-cost SDR transceiver that can transmit and receive full-duplex signals from 300MHz to 348MHz and from 391MHz to 464MHz.
 21. [Seed Studio Crazyradio PA](https://www.seeedstudio.com/Crazyradio-PA-Long-Range-2-4Ghz-USB-Radio-Dongle-with-Antenna-p-2689.html) - A low-cost SDR transceiver that can transmit and receive full-duplex signals from 2.4GHz to 2.5GHz.
 22. [KiwiSDR](https://www.kiwisdr.com/) - A low-cost SDR receiver that can receive signals from 10kHz to 30MHz.
+
+## SDR Antennas and Accessories
+
+1. [RTL-SDR Blog 1090 MHz ADS-B Antenna](https://www.rtl-sdr.com/new-product-rtl-sdr-blog-1090-mhz-ads-b-antenna/)
+2. [RTL-SDR Blog 1090 MHz ADS-B LNA](https://www.rtl-sdr.com/new-product-rtl-sdr-blog-1090-mhz-ads-b-lna/)
+3. [RTL-SDR Blog 1090 MHz ADS-B Filtered LNA](https://www.rtl-sdr.com/new-product-rtl-sdr-blog-1090-mhz-ads-b-filtered-lna/)
+4. [RTL-SDR Blog 1090 MHz ADS-B Ceramic Filtered Preamp](https://www.rtl-sdr.com/new-product-rtl-sdr-blog-1090-mhz-ads-b-ceramic-filtered-preamp/)
+5. [RTL-SDR Blog 1090 MHz ADS-B Triple Filtered LNA](https://www.rtl-sdr.com/new-product-rtl-sdr-blog-1090-mhz-ads-b-triple-filtered-lna/)
+6. [RTL-SDR Blog 1090 MHz ADS-B Outdoor Antenna](https://www.rtl-sdr.com/new-product-rtl-sdr-blog-1090-mhz-ads-b-outdoor-antenna/)
+7. [RTL-SDR Blog 1090 MHz ADS-B Antenna Tripod Mount](https://www.rtl-sdr.com/new-product-rtl-sdr-blog-1090-mhz-ads-b-antenna-tripod-mount/)
+8. [LNA4ALL](https://lna4all.blogspot.com/) - A low-cost wideband LNA that can be used with SDRs.
+9. [Mini-Whip](https://www.nonstopsystems.com/radio/frank_radio_antenna_active_miniwhip.htm) - A low-cost active antenna that can be used with SDRs.
+10. [Diamond Discone Antenna](https://www.diamondantenna.net/d130nj.html) - A wideband antenna that can be used with SDRs.
+11. [Youloop](https://www.nonstopsystems.com/radio/frank_radio_antenna_loop.htm) - A low-cost passive loop antenna that can be used with SDRs.
+12. [RTL-SDR Blog SMA Pigtail Antenna Set](https://www.rtl-sdr.com/new-product-rtl-sdr-blog-sma-pigtail-antenna-set/)
+
+### Antenna Design Tools
+1. [4nec2](http://www.qsl.net/4nec2/) - A free NEC based antenna modeler and optimizer.
+2. [NEC2++](
+3. [MMANA-GAL](http://hamsoft.ca/pages/mmana-gal.php) - A free MMANA-GAL based antenna modeler and optimizer.
+4. [EZNEC](https://www.eznec.com/) - A commercial NEC based antenna modeler and optimizer.
+5. [MMANA-GAL](http://hamsoft.ca/pages/mmana-gal.php) - A free MMANA-GAL based antenna modeler and optimizer.
+6. [NanoVNA](https://nanorfe.com/) - A low-cost vector network analyzer that can be used to measure antenna performance.
+
+### Antenna Switches
+1. [DX Engineering](https://www.dxengineering.com/) - A variety of antenna switches for HF, VHF, and UHF.
+2. [MFJ Enterprises](https://www.mfjenterprises.com/) - A variety of antenna switches for HF, VHF, and UHF.
+
+### Antenna Rotators
+1. [Yaesu](https://www.yaesu.com/) - A variety of antenna rotators for HF, VHF, and UHF.
+2. [Alfa Radio](https://www.alfaradio.ca/) - A variety of antenna rotators for HF, VHF, and UHF.
