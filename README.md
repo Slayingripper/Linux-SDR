@@ -3,8 +3,6 @@
 ## Interfacing SDR with Linux
 A comprehensive list of  SDR tools for linux for a plethora of applications
 1. [GNU Radio ](https://www.gnuradio.org/) - A free and open-source software development toolkit that provides signal processing blocks to implement SDR systems. 
-
-
 2. [SDRangel](https://github.com/f4exb/sdrangel) - A versatile SDR software with a modular design that supports a variety of SDR devices and enables advanced signal processing. 
 
 3. [SDRplay SDRUno](https://www.sdrplay.com/sdruno/) - A powerful SDR application specifically designed for SDRplay's range of SDR receivers, offering advanced features and an intuitive user interface. 
@@ -12,46 +10,35 @@ A comprehensive list of  SDR tools for linux for a plethora of applications
 4. [CubicSDR Website](https://cubicsdr.com/) - A multi-platform SDR application that supports various SDR devices and offers features like spectrum display, waterfall visualization, and more. 
 
 5. [GQRX](https://gqrx.dk/) - An open-source SDR receiver powered by GNU Radio, providing a graphical interface and support for numerous SDR hardware options.
-6.  
-7. [SoapySDR](https://github.com/pothosware/SoapySDR) - A vendor-neutral SDR software abstraction layer that enables compatibility between SDR hardware and various SDR applications. 
+6. [SoapySDR](https://github.com/pothosware/SoapySDR) - A vendor-neutral SDR software abstraction layer that enables compatibility between SDR hardware and various SDR applications. 
 
-8. [LinHPSDR ](https://openhpsdr.org/) - An SDR application based on the HPSDR Hermes board, providing support for high-performance SDR receivers. 
-9. [OpenWebRX Website](https://www.openwebrx.de/) - A multi-user SDR receiver application that supports various SDR hardware and offers a simple web interface for remote access. 
-
-10. [Thetis](https://github.com/TAPR/OpenHPSDR-Thetis) - A multi-platform SDR application that supports the HPSDR Mercury, Penelope, and Excalibur SDR hardware, offering advanced features and a customizable user interface. 
+7. [LinHPSDR ](https://openhpsdr.org/) - An SDR application based on the HPSDR Hermes board, providing support for high-performance SDR receivers. 
+8. [OpenWebRX Website](https://www.openwebrx.de/) - A multi-user SDR receiver application that supports various SDR hardware and offers a simple web interface for remote access. 
+9.  [Thetis](https://github.com/TAPR/OpenHPSDR-Thetis) - A multi-platform SDR application that supports the HPSDR Mercury, Penelope, and Excalibur SDR hardware, offering advanced features and a customizable user interface. 
 
 ## Decoding tools for SDR
 1. [gr-gsm](https://github.com/ptrkrysik/gr-gsm) - A GNU Radio based software that can be used to decode GSM/3G/4G LTE base stations. 
-
 2. [gr-lte](https://github.com/kit-cel/gr-lte) - A GNU Radio based software that can be used to decode LTE base stations. 
-
 3. [gr-iridium](https://github.com/daniestevez/gr-iridium) - A GNU Radio based software that can be used to decode Iridium satellite signals. 
-
 4. [gr-ax25](https://github.com/argilo/gr-ax25) - A GNU Radio based software that can be used to decode AX.25 signals. 
-
 5. [gr-satellites](https://github.com/daniestevez/gr-satellites) - A GNU Radio based software that can be used to decode satellite signals. 
-
 6. [gr-ais](https://github.com/bistromath/gr-ais) - A GNU Radio based software that can be used to decode AIS signals. 
-
 7. [gr-rds](https://github.com/argilo/gr-rds) - A GNU Radio based software that can be used to decode RDS signals. 
-
 8. [gr-ieee802-15-4](https://github.com/bastibl/gr-ieee802-15-4) - A GNU Radio based software that can be used to decode IEEE 802.15.4 signals. 
-
 9. [rtl_433](https://github.com/merbanan/rtl_433) - A software that can be used to decode a variety of sensors and devices that transmit using 433MHz. 
-
 10. [rtl_ais](https://github.com/dgiardini/rtl-ais) - A software that can be used to decode AIS signals. 
-
 11. [rtlamr](https://github.com/bemasher/rtlamr) - A software that can be used to decode smart meters that transmit using 900MHz. 
-
 12. [dump1090](https://github.com/antirez/dump1090) - A software that can be used to decode ADS-B signals. 
-
 13. [multimon-ng](https://github.com/EliasOenal/multimon-ng) - A software that can be used to decode a variety of digital transmission modes. 
-
 14. [dsd](https://github.com/szechyjs/dsd) - A software that can be used to decode digital voice protocols such as P25, DMR, and more. 
 15. [QRadioLink](https://github.com/qradiolink/qradiolink)
  is a VOIP (radio over IP) GNU/Linux SDR (software defined radio) transceiver application using Internet protocols for communication, built on top of GNU radio, which allows experimenting with some software defined radio hardware devices - 
 16. [WSJT-X](https://physics.princeton.edu/pulsar/k1jt/wsjtx.html) - A software that can be used to decode weak signals in amateur radio.
 17. [SDRTrunk](https://github.com/DSheirer/sdrtrunk) - A software that can be used to decode P25, DMR, and other digital voice protocols.
+18. [fldigi](http://www.w1hkj.com/) - A software that can be used to decode a variety of digital transmission modes.
+19. [flrig](http://www.w1hkj.com/flrig-help/) - A software that can be used to control amateur radio transceivers.
+20. [xastir](https://xastir.org/index.php/Main_Page) - A software that can be used to decode APRS signals.
+21. [RaspberryNoAA2](https://github.com/jekhokie/raspberry-noaa-v2)- NOAA and Meteor-M 2 satellite imagery capture setup for the Raspberry Pi.
 ## Linux Distros for SDR prebuilts
 
 1. [Ham Radio Linux](https://sourceforge.net/projects/hamradiolinux/) - A Linux distribution for amateur radio operators based on Ubuntu. 
