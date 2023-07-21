@@ -39,6 +39,47 @@ A comprehensive list of  SDR tools for linux for a plethora of applications
 19. [flrig](http://www.w1hkj.com/flrig-help/) - A software that can be used to control amateur radio transceivers.
 20. [xastir](https://xastir.org/index.php/Main_Page) - A software that can be used to decode APRS signals.
 21. [RaspberryNoAA2](https://github.com/jekhokie/raspberry-noaa-v2)- NOAA and Meteor-M 2 satellite imagery capture setup for the Raspberry Pi.
+22. [gr-pocsag](https://www.cgran.org/browser/projects/gr-pocsag/trunk) - GRC Flowgraph
+23. [multimode RX (try first!)](https://www.cgran.org/browser/projects/multimode/trunk) - GRC Flowgraph
+24. [simple_fm_rvc](https://www.cgran.org/browser/projects/simple_fm_rcv/trunk) - GRC Flowgraph
+25. [python-librtlsdr](https://github.com/dbasden/python-librtlsdr) - Python Wrapper
+26. [pyrtlsdr](https://github.com/roger-/pyrtlsdr) - Python Wrapper
+27. [rtlsdr-waterfall](https://github.com/keenerd/rtlsdr-waterfall) - Python FFT GUI
+28. [Wireless Temp. Sensor RX](https://github.com/kevinmehall/rtlsdr-433m-sensor) - Gnuradio App
+29. [QtRadio](http://napan.ca/ghpsdr3/index.php/RTL-SDR) - SDR GUI
+30. [gqrx](https://github.com/csete/gqrx) - SDR GUI
+32. [SDR#](http://sdrsharp.com/) - SDR GUI (Windows Guide or Linux Guide)
+33. [tetra_demod_fft](osmosdr-tetra_demod_fft.py and the HOWTO) - Trunking RX
+34. [airprobe](http://git.gnumonks.org/cgi-bin/gitweb.cgi?p=airprobe.git) - GSM sniffer
+36. [gr-air-modes](https://www.cgran.org/wiki/gr-air-modes call with --rtlsdr option) - ADS-B RX
+37. [Linrad](http://www.nitehawk.com/sm5bsz/linuxdsp/hware/rtlsdr/rtlsdr.htm" DAGC changes were applied to librtlsdr master) - SDR GUI
+38. [gr-ais (fork)](https://github.com/chgans/gr-ais) - AIS RX
+40. [GNSS-SDR](http://www.gnss-sdr.org/) - GPS RX (Realtime!) (Documentation and)
+41. [LTE-Cell-Scanner](http://www.evrytania.com/lte-tools https://github.com/Evrytania/LTE-Cell-Scanner) - LTE Scanner / Tracker
+42. [LTE-Cell-Scanner OpenCL accelerated (new)](https://github.com/JiaoXianjun/LTE-Cell-Scanner) - LTE Scanner / Tracker
+43. [Simulink-RTL-SDR](http://www.cel.kit.edu/simulink_rtl_sdr.php) - MATLAB/Simulink wrapper
+44. [gr-scan](http://www.techmeology.co.uk/gr-scan/) - Scanner
+45. [kalibrate-rtl](https://github.com/steve-m/kalibrate-rtl Windows build) - calibration tool
+46. [pocsag-mrt](https://github.com/iZsh/pocsag-mrt) - Multichannel Realtime Decoder
+47. [adsb#](http://sdrsharp.com/index.php/a-simple-and-cheap-ads-b-receiver-using-rtl-sdr) - ADS-B RX
+48. [osmo-gmr-rtl](https://osmocom.org/projects/gmr/wiki/GettingStarted#RTLSDRdongles) - GMR1 RX
+50. [dump1090](https://github.com/antirez/dump1090) - ADS-B RX
+51. [rtl_433](https://github.com/merbanan/rtl_433) - Temperature Sensor Receiver
+52. [randio](https://github.com/michelp/randio) - Random number generator
+53. [gr-wmbus](https://github.com/oWCTejLVlFyNztcBnOoh/gr-wmbus) - m-bus (EN 13757-4) RX
+54. [ec3k](https://github.com/avian2/ec3k) - EnergyCount 3000 RX
+55. [RTLSDR-Scanner](https://github.com/EarToEarOak/RTLSDR-Scanner) - Radio Scanner
+56. [simple_ra](https://cgran.org/wiki/simple_ra) - Radio Astronomy App
+57. [rtlizer](https://github.com/csete/rtlizer) - Spectrum analyzer
+58. [FS20_decode](https://github.com/eT0M/rtl_sdr_FS20_decoder) - FS20 Decoder
+59. [OpenLTE](http://sourceforge.net/p/openlte/home/Home/) - LTE Toolkit
+60. [rtltcpaccess](https://github.com/steve-m/rtltcpaccess) - DAB compatibility layer
+61. [SDR-J](http://www.sdr-j.tk) - "Analog" SDR & DAB
+63. [gortlsdr](https://github.com/jpoirier/gortlsdr) - Golang wrapper
+64. [gr-rds (fork)](https://github.com/bastibl/gr-rds) - RDS + WBFM receiver
+66. [acarsdec](http://sourceforge.net/projects/acarsdec/) - ACARS decoder
+67. [rtl-sdr-airband](https://github.com/microtony/RTLSDR-Airband) - air band receiver/ATIS
+
 ## Linux Distros for SDR prebuilts
 
 1. [Ham Radio Linux](https://sourceforge.net/projects/hamradiolinux/) - A Linux distribution for amateur radio operators based on Ubuntu. 
