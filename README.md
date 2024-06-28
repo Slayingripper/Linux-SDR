@@ -13,7 +13,7 @@ A comprehensive list of  SDR tools for linux for a plethora of applications
 6. [SoapySDR](https://github.com/pothosware/SoapySDR) - A vendor-neutral SDR software abstraction layer that enables compatibility between SDR hardware and various SDR applications. 
 
 7. [LinHPSDR ](https://openhpsdr.org/) - An SDR application based on the HPSDR Hermes board, providing support for high-performance SDR receivers. 
-8. [OpenWebRX Website](https://www.openwebrx.de/) - A multi-user SDR receiver application that supports various SDR hardware and offers a simple web interface for remote access. 
+8. [OpenWebRx+](https://luarvique.github.io/ppa/) - A multi-user SDR receiver application that supports various SDR hardware and offers a simple web interface for remote access. 
 9.  [Thetis](https://github.com/TAPR/OpenHPSDR-Thetis) - A multi-platform SDR application that supports the HPSDR Mercury, Penelope, and Excalibur SDR hardware, offering advanced features and a customizable user interface. 
 
 ## Decoding tools for SDR
