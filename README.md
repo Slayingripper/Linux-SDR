@@ -95,28 +95,35 @@ A comprehensive list of  SDR tools for linux for a plethora of applications
 11. [Kali NetHunter](https://www.kali.org/kali-linux-nethunter/) - A Linux distribution for penetration testing and security auditing that includes a variety of SDR tools. 
 
 ## SDR Hardware
-1. [RTL-SDR](https://www.rtl-sdr.com/) - A low-cost SDR receiver that uses a DVB-T TV tuner dongle based on the RTL2832U chipset.
-2. [HackRF One](https://greatscottgadgets.com/hackrf/) - A low-cost SDR transceiver that can transmit and receive half-duplex signals from 1MHz to 6GHz.
-3. [LimeSDR](https://limemicro.com/products/boards/limesdr/) - A low-cost SDR transceiver that can transmit and receive full-duplex signals from 100kHz to 3.8GHz.
-4. [LimeSDR Mini](https://limemicro.com/products/boards/limesdr-mini/) - A low-cost SDR transceiver that can transmit and receive full-duplex signals from 10MHz to 3.5GHz.
-5. [Airspy](https://airspy.com/) - A low-cost SDR receiver that can receive signals from 24MHz to 1.8GHz.
-6. [Airspy Mini](https://airspy.com/airspy-mini/) - A low-cost SDR receiver that can receive signals from 24MHz to 1.8GHz.
-7. [Airspy HF+](https://airspy.com/airspy-hf-plus/) - A low-cost SDR receiver that can receive signals from 9kHz to 31MHz.
-8. [Airspy HF+ Discovery](https://airspy.com/airspy-hf-discovery/) - A low-cost SDR receiver that can receive signals from 9kHz to 31MHz.
-9. [Airspy R2](https://airspy.com/airspy-r2/) - A low-cost SDR receiver that can receive signals from 24MHz to 1.8GHz.
-10. [RSP1](https://www.sdrplay.com/rsp1/) - A low-cost SDR receiver that can receive signals from 10kHz to 2GHz.
-11. [RSP1A](https://www.sdrplay.com/rsp1a/) - A low-cost SDR receiver that can receive signals from 1kHz to 2GHz.
-12. [RSP2](https://www.sdrplay.com/rsp2/) - A low-cost SDR receiver that can receive signals from 1kHz to 2GHz.
-13. [RSP2pro](https://www.sdrplay.com/rsp2pro/) - A low-cost SDR receiver that can receive signals from 1kHz to 2GHz.
-14. [RSPduo](https://www.sdrplay.com/rspduo/) - A low-cost SDR receiver that can receive signals from 1kHz to 2GHz.
-15. [Hermes-Lite 2](http://www.hermeslite.com/) - A low-cost SDR transceiver that can transmit and receive full-duplex signals from 0.1MHz to 30MHz.
-16. [BladeRF 2.0 Micro](https://www.nuand.com/product/bladerf-2-micro/) - A low-cost SDR transceiver that can transmit and receive full-duplex signals from 47MHz to 6GHz.
-17. [USRP](https://www.ettus.com/all-products/) - A high-performance SDR transceiver that can transmit and receive full-duplex signals from 10MHz to 6GHz.
-18. [USRP B200mini](https://www.ettus.com/all-products/usrp-b200mini-i/) - A low-cost SDR transceiver that can transmit and receive full-duplex signals from 70MHz to 6GHz.
-19. [UberTooth One](https://greatscottgadgets.com/ubertoothone/) - A low-cost SDR transceiver that can transmit and receive full-duplex signals from 2.4GHz to 2.5GHz.
-20. [YARD Stick One](https://greatscottgadgets.com/yardstickone/) - A low-cost SDR transceiver that can transmit and receive full-duplex signals from 300MHz to 348MHz and from 391MHz to 464MHz.
-21. [Seed Studio Crazyradio PA](https://www.seeedstudio.com/Crazyradio-PA-Long-Range-2-4Ghz-USB-Radio-Dongle-with-Antenna-p-2689.html) - A low-cost SDR transceiver that can transmit and receive full-duplex signals from 2.4GHz to 2.5GHz.
-22. [KiwiSDR](https://www.kiwisdr.com/) - A low-cost SDR receiver that can receive signals from 10kHz to 30MHz.
+1. [RTL-SDR](https://www.rtl-sdr.com/) - A popular, low-cost USB software-defined radio receiver.
+2. [HackRF One](https://greatscottgadgets.com/hackrf/) - A wideband transceiver with a frequency range of 1 MHz to 6 GHz.
+3. [USRP B200](https://www.ettus.com/all-products/usrp-b200/) - A versatile SDR with a frequency range of 70 MHz to 6 GHz.
+4. [FunCube Dongle Pro+](https://www.funcubedongle.com/) - A high-performance SDR with a frequency range of 150 kHz to 1.9 GHz.
+5. [Airspy Mini](https://airspy.com/airspy-mini/) - A compact SDR with a frequency range of 24 MHz to 1.8 GHz.
+6. [Ettus Research USRP N210](https://www.ettus.com/all-products/usrp-n210/) - A high-performance SDR with a frequency range of 10 MHz to 6 GHz.
+7. [BeagleBone SDR](https://beagleboard.org/sdr) - An SDR module designed to work with the BeagleBone platform.
+8. [LimeSDR](https://limemicro.com/products/limesdr/) - A versatile SDR with a frequency range of 100 kHz to 3.8 GHz.
+9. [ADALM-PLUTO](https://www.analog.com/en/design-center/evaluation-hardware-and-software/evaluation-boards-kits/adalm-pluto.html) - A portable SDR with a frequency range of 325 MHz to 3.8 GHz.
+10. [XTRX](https://xtrx.io/) - A high-performance SDR with a frequency range of 30 MHz to 3.8 GHz.
+11. [Red Pitaya](https://www.redpitaya.com/) - A programmable SDR platform with a frequency range of 10 MHz to 1 GHz.
+12. [Raspberry Pi with RTL-SDR](https://www.raspberrypi.org/) - An SDR setup using a Raspberry Pi and RTL-SDR dongle.
+13. [SDRplay RSP1A](https://www.sdrplay.com/rsp1a/) - A versatile SDR with a frequency range of 1 kHz to 2 GHz.
+14. [Xilinx ZCU102](https://www.xilinx.com/products/boards-and-kits/ek-u1-zcu102-g.html) - An SDR development board with a high-performance FPGA.
+15. [Nutaq PicoSDR](https://nutaq.com/product/picosdr/) - A compact SDR with a frequency range of 300 MHz to 3.8 GHz.
+16. [ADALM-2000](https://www.analog.com/en/design-center/evaluation-hardware-and-software/evaluation-boards-kits/adalmlogic.html) - An SDR development board with a frequency range of 0 MHz to 50 MHz.
+17. [mPCIe SDR](https://www.microchip.com/wwwproducts/en/ATSAM9G20) - A compact SDR module designed for use with mPCIe interfaces.
+18. [NI USRP B210](https://www.ni.com/en-us/support/model.usrp-b210.html) - A high-performance SDR with a frequency range of 70 MHz to 6 GHz.
+19. [Tango](https://www.analog.com/en/design-center/evaluation-hardware-and-software/evaluation-boards-kits/tango.html) - A versatile SDR with a frequency range of 500 MHz to 6 GHz.
+20. [Teleradio P104](https://www.tele-radio.com/products/p104/) - A compact SDR with a frequency range of 0 MHz to 1.5 GHz.
+21. [NetSDR](https://www.winradio.com/NetSDR.html) - A high-performance SDR with a frequency range of 10 kHz to 2 GHz.
+22. [LabSat 3](https://www.labsat.co.uk/products/labsat-3/) - A compact SDR designed for GNSS signal simulation.
+23. [Quake SDR](https://www.quake.com/products/sdr/) - A high-performance SDR with a frequency range of 10 MHz to 6 GHz.
+24. [RFSPACE SDR-14](http://www.rfspace.com/sdr-14/) - A high-performance SDR with a frequency range of 10 kHz to 2 GHz.
+25. [IRIS](https://www.kacst.edu.sa/EN/Research/Pages/IRIS.aspx) - A versatile SDR with a frequency range of 10 MHz to 2.6 GHz.
+26. [KX3](https://elecraft.com/kx3.html) - A portable SDR with a frequency range of 160 m to 10 m.
+27. [FTDI Synchronous](https://www.ftdichip.com/Products/ICs/FT2232H.html) - A SDR module designed for use with FTDI synchronous serial interfaces.
+28. [Siano SMSC](https://www.siano.com/products/) - A versatile SDR with a frequency range of 50 MHz to 2.7 GHz.
+29. [LimeSDR Mini](https://limemicro.com/products/boards/limesdr-mini/) - A compact SDR with a frequency range of 10 MHz to 3.5 GHz.
 
 ## SDR Antennas and Accessories
 
