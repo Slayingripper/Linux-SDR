@@ -34,7 +34,7 @@ A comprehensive list of SDR tools for Linux covering a variety of applications.
 - **[LinHPSDR](https://openhpsdr.org/)** - An SDR application based on the HPSDR Hermes board, providing support for high-performance SDR receivers.
 - **[OpenWebRx+](https://luarvique.github.io/ppa/)** - A multi-user SDR receiver application that supports various SDR hardware and offers a simple web interface for remote access.
 - **[Thetis](https://github.com/TAPR/OpenHPSDR-Thetis)** - A multi-platform SDR application supporting HPSDR Mercury, Penelope, and Excalibur hardware, offering advanced features and a customizable user interface.
-- **[QSpectrumAnalyzer](https://github.com/qscope/QSpectrumAnalyzer)** - A real-time spectrum analyzer integrated with GNU Radio for advanced signal visualization.
+- **[QSpectrumAnalyzer](https://github.com/xmikos/qspectrumanalyzer)** - A real-time spectrum analyzer integrated with GNU Radio for advanced signal visualization.
 - **[SDRangelino](https://github.com/f4exb/sdrangelino)** - A lightweight SDR application optimized for embedded systems, offering essential signal processing features.
 - **[DesktopHPSDR](https://github.com/dl1bz/deskhpsdr)** - A fork on PIHPSDR made for desktop use with some improvements 
 
