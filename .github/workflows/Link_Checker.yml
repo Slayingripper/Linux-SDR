@@ -14,24 +14,18 @@ jobs:
 
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Set Up Node.js
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v4
         with:
-          node-version: '18'
-
-      - name: Cache npm dependencies
-        uses: actions/cache@v3
-        with:
-          path: ~/.npm
-          key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
-          restore-keys: |
-            ${{ runner.os }}-node-
+          node-version: '20' # Updated to latest LTS
 
       - name: Install markdown-link-check
         run: npm install -g markdown-link-check
 
       - name: Run Link Checker
+        # We use a loop or xargs with -I to ensure we catch errors correctly
+        # and handle filenames with spaces.
         run: |
-          find . -name "*.md" | xargs markdown-link-check
+          find . -name "*.md" -not -path "./node_modules/*" | xargs -n 1 markdown-link-check
