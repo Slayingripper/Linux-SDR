@@ -28,21 +28,21 @@ A comprehensive list of SDR tools for Linux covering a variety of applications.
 - **[GNU Radio](https://www.gnuradio.org/)** - A free and open-source software development toolkit that provides signal processing blocks to implement SDR systems. *(Open-Source)*
 - **[SDRangel](https://github.com/f4exb/sdrangel)** - Versatile SDR software with a modular design supporting various devices and advanced signal processing. *(Latest Release: v3.12, August 2023)*
 - **[SDRplay SDRUno](https://www.sdrplay.com/sdruno/)** - A powerful SDR application designed for SDRplay's range of SDR receivers, offering advanced features, an intuitive user interface, and regular updates.
-- **[CubicSDR](https://cubicsdr.com/)** - A multi-platform SDR application that supports various SDR devices and offers features like spectrum display and waterfall visualization.
+- **[CubicSDR]([https://cubicsdr.com/](https://github.com/cjcliffe/CubicSDR))** - A multi-platform SDR application that supports various SDR devices and offers features like spectrum display and waterfall visualisation.
 - **[GQRX](https://gqrx.dk/)** - An open-source SDR receiver powered by GNU Radio, providing a graphical interface and support for numerous SDR hardware options.
 - **[SoapySDR](https://github.com/pothosware/SoapySDR)** - A vendor-neutral SDR software abstraction layer enabling compatibility between SDR hardware and various SDR applications.
 - **[LinHPSDR](https://openhpsdr.org/)** - An SDR application based on the HPSDR Hermes board, providing support for high-performance SDR receivers.
 - **[OpenWebRx+](https://luarvique.github.io/ppa/)** - A multi-user SDR receiver application that supports various SDR hardware and offers a simple web interface for remote access.
 - **[Thetis](https://github.com/TAPR/OpenHPSDR-Thetis)** - A multi-platform SDR application supporting HPSDR Mercury, Penelope, and Excalibur hardware, offering advanced features and a customizable user interface.
-- **[QSpectrumAnalyzer](https://github.com/xmikos/qspectrumanalyzer)** - A real-time spectrum analyzer integrated with GNU Radio for advanced signal visualization.
-- **[SDRangelino](https://github.com/f4exb/sdrangelino)** - A lightweight SDR application optimized for embedded systems, offering essential signal processing features.
-- **[DesktopHPSDR](https://github.com/dl1bz/deskhpsdr)** - A fork on PIHPSDR made for desktop use with some improvements 
+- **[QSpectrumAnalyzer](https://github.com/xmikos/qspectrumanalyzer)** - A real-time spectrum analyser integrated with GNU Radio for advanced signal visualisation.
+- **[SDRangelino](https://github.com/f4exb/sdrangelino)** - A lightweight SDR application optimised for embedded systems, offering essential signal processing features.
+- **[DesktopHPSDR](https://github.com/dl1bz/deskhpsdr)** - A fork of PIHPSDR made for desktop use with some improvements 
 
 ---
 
 ## Decoding Tools for SDR
 
-Categorized by application for easier navigation.
+Categorised by application for easier navigation.
 
 ### GSM/Cellular
 - **[gr-gsm](https://github.com/ptrkrysik/gr-gsm)** - Decode GSM/3G/4G LTE base stations using GNU Radio.
